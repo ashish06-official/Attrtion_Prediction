@@ -191,25 +191,7 @@ Future enhancements for the project include:
 
 ## Project Structure
 
-```text
-Employee-Attrition-Prediction
-│
-├── Dataset
-│   └── employee_attrition.csv
-│
-├── Notebooks
-│   └── attrition_analysis.ipynb
-│
-├── Models
-│   └── random_forest_model.pkl
-│
-├── Visualizations
-│   └── charts
-│
-├── README.md
-│
-└── requirements.txt
-```
+
 
 ---
 
