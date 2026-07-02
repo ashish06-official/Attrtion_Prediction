@@ -172,7 +172,6 @@ Evaluation metrics include:
 * F1 Score
 * Cross Validation Accuracy
 
-(Insert your final results here)
 
 ---
 
@@ -186,12 +185,6 @@ Future enhancements for the project include:
 * Department-wise attrition analytics dashboard
 * Real-time prediction interface
 * Cloud deployment
-
----
-
-## Project Structure
-
-
 
 ---
 
